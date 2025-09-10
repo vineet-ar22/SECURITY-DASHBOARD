@@ -1,0 +1,2 @@
+total_logins,successful_logins,failed_logins,unique_users,avg_risk_score,high_risk_logins,anomalies_detected
+1000,950,50,5,33.09665449544808,28,100

@@ -1,0 +1,223 @@
+UserID,AlertType,Description,Severity,AlertTime
+USR001,Multiple Failed Logins,User has 11 failed login attempts,High,2025-09-10 05:01:11.281516
+USR002,Multiple Failed Logins,User has 8 failed login attempts,High,2025-09-10 05:01:11.281522
+USR003,Multiple Failed Logins,User has 8 failed login attempts,High,2025-09-10 05:01:11.281523
+USR004,Multiple Failed Logins,User has 11 failed login attempts,High,2025-09-10 05:01:11.281524
+USR005,Multiple Failed Logins,User has 12 failed login attempts,High,2025-09-10 05:01:11.281525
+USR002,Off Hours Access,Login at 23:12 outside business hours,Medium,2025-09-10 05:01:11.283371
+USR001,Off Hours Access,Login at 03:30 outside business hours,Medium,2025-09-10 05:01:11.283602
+USR004,Off Hours Access,Login at 02:34 outside business hours,Medium,2025-09-10 05:01:11.283708
+USR003,Off Hours Access,Login at 00:28 outside business hours,Medium,2025-09-10 05:01:11.283795
+USR003,Off Hours Access,Login at 23:09 outside business hours,Medium,2025-09-10 05:01:11.283881
+USR003,Off Hours Access,Login at 00:18 outside business hours,Medium,2025-09-10 05:01:11.283965
+USR005,Off Hours Access,Login at 23:16 outside business hours,Medium,2025-09-10 05:01:11.284050
+USR005,Off Hours Access,Login at 02:23 outside business hours,Medium,2025-09-10 05:01:11.284157
+USR002,Off Hours Access,Login at 05:08 outside business hours,Medium,2025-09-10 05:01:11.284241
+USR004,Off Hours Access,Login at 23:04 outside business hours,Medium,2025-09-10 05:01:11.284322
+USR005,Off Hours Access,Login at 05:38 outside business hours,Medium,2025-09-10 05:01:11.284404
+USR002,Off Hours Access,Login at 01:32 outside business hours,Medium,2025-09-10 05:01:11.284487
+USR005,Off Hours Access,Login at 05:36 outside business hours,Medium,2025-09-10 05:01:11.284570
+USR002,Off Hours Access,Login at 04:05 outside business hours,Medium,2025-09-10 05:01:11.284651
+USR001,Off Hours Access,Login at 23:00 outside business hours,Medium,2025-09-10 05:01:11.284732
+USR001,Off Hours Access,Login at 04:40 outside business hours,Medium,2025-09-10 05:01:11.284814
+USR004,Off Hours Access,Login at 04:55 outside business hours,Medium,2025-09-10 05:01:11.284896
+USR004,Off Hours Access,Login at 23:10 outside business hours,Medium,2025-09-10 05:01:11.284978
+USR004,Off Hours Access,Login at 23:47 outside business hours,Medium,2025-09-10 05:01:11.285060
+USR003,Off Hours Access,Login at 04:14 outside business hours,Medium,2025-09-10 05:01:11.285142
+USR002,Off Hours Access,Login at 00:45 outside business hours,Medium,2025-09-10 05:01:11.285224
+USR002,Off Hours Access,Login at 03:24 outside business hours,Medium,2025-09-10 05:01:11.285305
+USR005,Off Hours Access,Login at 23:52 outside business hours,Medium,2025-09-10 05:01:11.285388
+USR004,Off Hours Access,Login at 02:09 outside business hours,Medium,2025-09-10 05:01:11.285471
+USR004,Off Hours Access,Login at 00:36 outside business hours,Medium,2025-09-10 05:01:11.285556
+USR003,Off Hours Access,Login at 00:12 outside business hours,Medium,2025-09-10 05:01:11.285638
+USR001,Off Hours Access,Login at 01:39 outside business hours,Medium,2025-09-10 05:01:11.285721
+USR003,Off Hours Access,Login at 04:10 outside business hours,Medium,2025-09-10 05:01:11.285804
+USR005,Off Hours Access,Login at 04:17 outside business hours,Medium,2025-09-10 05:01:11.285890
+USR002,Off Hours Access,Login at 02:32 outside business hours,Medium,2025-09-10 05:01:11.285974
+USR001,Off Hours Access,Login at 03:28 outside business hours,Medium,2025-09-10 05:01:11.286057
+USR004,Off Hours Access,Login at 23:24 outside business hours,Medium,2025-09-10 05:01:11.286154
+USR001,Off Hours Access,Login at 01:02 outside business hours,Medium,2025-09-10 05:01:11.286244
+USR001,Off Hours Access,Login at 01:17 outside business hours,Medium,2025-09-10 05:01:11.286329
+USR002,Off Hours Access,Login at 05:49 outside business hours,Medium,2025-09-10 05:01:11.286411
+USR004,Off Hours Access,Login at 02:40 outside business hours,Medium,2025-09-10 05:01:11.286493
+USR005,Off Hours Access,Login at 05:39 outside business hours,Medium,2025-09-10 05:01:11.286577
+USR005,Off Hours Access,Login at 01:44 outside business hours,Medium,2025-09-10 05:01:11.286660
+USR004,Off Hours Access,Login at 03:33 outside business hours,Medium,2025-09-10 05:01:11.286741
+USR003,Off Hours Access,Login at 23:14 outside business hours,Medium,2025-09-10 05:01:11.286821
+USR005,Off Hours Access,Login at 23:56 outside business hours,Medium,2025-09-10 05:01:11.286902
+USR001,Off Hours Access,Login at 23:42 outside business hours,Medium,2025-09-10 05:01:11.286983
+USR001,Off Hours Access,Login at 01:42 outside business hours,Medium,2025-09-10 05:01:11.287064
+USR002,Off Hours Access,Login at 03:38 outside business hours,Medium,2025-09-10 05:01:11.287145
+USR003,Off Hours Access,Login at 23:32 outside business hours,Medium,2025-09-10 05:01:11.287225
+USR004,Off Hours Access,Login at 05:38 outside business hours,Medium,2025-09-10 05:01:11.287306
+USR004,Off Hours Access,Login at 03:56 outside business hours,Medium,2025-09-10 05:01:11.287389
+USR002,Off Hours Access,Login at 00:00 outside business hours,Medium,2025-09-10 05:01:11.287471
+USR001,Off Hours Access,Login at 02:24 outside business hours,Medium,2025-09-10 05:01:11.287554
+USR004,Off Hours Access,Login at 04:39 outside business hours,Medium,2025-09-10 05:01:11.287643
+USR001,Off Hours Access,Login at 03:42 outside business hours,Medium,2025-09-10 05:01:11.287797
+USR003,Off Hours Access,Login at 00:21 outside business hours,Medium,2025-09-10 05:01:11.287894
+USR002,Off Hours Access,Login at 23:25 outside business hours,Medium,2025-09-10 05:01:11.287976
+USR001,Off Hours Access,Login at 03:43 outside business hours,Medium,2025-09-10 05:01:11.288057
+USR001,Off Hours Access,Login at 05:10 outside business hours,Medium,2025-09-10 05:01:11.288171
+USR002,Off Hours Access,Login at 04:40 outside business hours,Medium,2025-09-10 05:01:11.288291
+USR005,Off Hours Access,Login at 23:38 outside business hours,Medium,2025-09-10 05:01:11.288402
+USR002,Off Hours Access,Login at 23:56 outside business hours,Medium,2025-09-10 05:01:11.288499
+USR004,Off Hours Access,Login at 00:54 outside business hours,Medium,2025-09-10 05:01:11.288582
+USR004,Off Hours Access,Login at 04:46 outside business hours,Medium,2025-09-10 05:01:11.288695
+USR001,Off Hours Access,Login at 04:35 outside business hours,Medium,2025-09-10 05:01:11.288873
+USR002,Off Hours Access,Login at 02:06 outside business hours,Medium,2025-09-10 05:01:11.289000
+USR002,Off Hours Access,Login at 02:21 outside business hours,Medium,2025-09-10 05:01:11.289089
+USR001,Off Hours Access,Login at 03:41 outside business hours,Medium,2025-09-10 05:01:11.289171
+USR005,Off Hours Access,Login at 02:53 outside business hours,Medium,2025-09-10 05:01:11.289252
+USR002,Off Hours Access,Login at 01:50 outside business hours,Medium,2025-09-10 05:01:11.289332
+USR004,Off Hours Access,Login at 01:56 outside business hours,Medium,2025-09-10 05:01:11.289412
+USR003,Off Hours Access,Login at 23:06 outside business hours,Medium,2025-09-10 05:01:11.289493
+USR003,Off Hours Access,Login at 23:52 outside business hours,Medium,2025-09-10 05:01:11.289574
+USR001,Off Hours Access,Login at 05:01 outside business hours,Medium,2025-09-10 05:01:11.289654
+USR005,Off Hours Access,Login at 23:42 outside business hours,Medium,2025-09-10 05:01:11.289735
+USR002,Off Hours Access,Login at 23:07 outside business hours,Medium,2025-09-10 05:01:11.289817
+USR004,Off Hours Access,Login at 03:33 outside business hours,Medium,2025-09-10 05:01:11.289936
+USR001,Off Hours Access,Login at 02:08 outside business hours,Medium,2025-09-10 05:01:11.290077
+USR005,Off Hours Access,Login at 01:20 outside business hours,Medium,2025-09-10 05:01:11.290179
+USR004,Off Hours Access,Login at 23:53 outside business hours,Medium,2025-09-10 05:01:11.290294
+USR001,Off Hours Access,Login at 05:34 outside business hours,Medium,2025-09-10 05:01:11.290420
+USR002,Off Hours Access,Login at 23:42 outside business hours,Medium,2025-09-10 05:01:11.290524
+USR004,Off Hours Access,Login at 23:17 outside business hours,Medium,2025-09-10 05:01:11.290640
+USR004,Off Hours Access,Login at 23:33 outside business hours,Medium,2025-09-10 05:01:11.290786
+USR005,Off Hours Access,Login at 03:15 outside business hours,Medium,2025-09-10 05:01:11.290919
+USR002,Off Hours Access,Login at 23:36 outside business hours,Medium,2025-09-10 05:01:11.291043
+USR005,Off Hours Access,Login at 02:33 outside business hours,Medium,2025-09-10 05:01:11.291168
+USR005,Off Hours Access,Login at 03:35 outside business hours,Medium,2025-09-10 05:01:11.291324
+USR001,Off Hours Access,Login at 05:09 outside business hours,Medium,2025-09-10 05:01:11.291494
+USR003,Off Hours Access,Login at 04:42 outside business hours,Medium,2025-09-10 05:01:11.291670
+USR001,Off Hours Access,Login at 05:43 outside business hours,Medium,2025-09-10 05:01:11.291840
+USR001,Off Hours Access,Login at 02:50 outside business hours,Medium,2025-09-10 05:01:11.291946
+USR005,Off Hours Access,Login at 04:55 outside business hours,Medium,2025-09-10 05:01:11.292037
+USR004,High Risk Login,Login with risk score 75.2,Medium,2025-09-10 05:01:11.293079
+USR001,High Risk Login,Login with risk score 79.3,Medium,2025-09-10 05:01:11.293187
+USR004,High Risk Login,Login with risk score 76.5,Medium,2025-09-10 05:01:11.293268
+USR001,High Risk Login,Login with risk score 94.8,High,2025-09-10 05:01:11.293346
+USR005,High Risk Login,Login with risk score 100.0,High,2025-09-10 05:01:11.293423
+USR004,High Risk Login,Login with risk score 76.6,Medium,2025-09-10 05:01:11.293501
+USR002,High Risk Login,Login with risk score 81.8,Medium,2025-09-10 05:01:11.293578
+USR002,High Risk Login,Login with risk score 73.4,Medium,2025-09-10 05:01:11.293655
+USR001,High Risk Login,Login with risk score 87.7,High,2025-09-10 05:01:11.293734
+USR002,High Risk Login,Login with risk score 78.6,Medium,2025-09-10 05:01:11.293811
+USR001,High Risk Login,Login with risk score 92.9,High,2025-09-10 05:01:11.293887
+USR005,High Risk Login,Login with risk score 71.0,Medium,2025-09-10 05:01:11.293963
+USR003,High Risk Login,Login with risk score 80.7,Medium,2025-09-10 05:01:11.294040
+USR001,High Risk Login,Login with risk score 73.8,Medium,2025-09-10 05:01:11.294116
+USR004,High Risk Login,Login with risk score 100.0,High,2025-09-10 05:01:11.294209
+USR005,High Risk Login,Login with risk score 82.1,Medium,2025-09-10 05:01:11.294292
+USR005,High Risk Login,Login with risk score 71.3,Medium,2025-09-10 05:01:11.294370
+USR005,High Risk Login,Login with risk score 84.9,Medium,2025-09-10 05:01:11.294447
+USR005,High Risk Login,Login with risk score 91.8,High,2025-09-10 05:01:11.294523
+USR001,High Risk Login,Login with risk score 80.9,Medium,2025-09-10 05:01:11.294599
+USR001,High Risk Login,Login with risk score 89.4,High,2025-09-10 05:01:11.294674
+USR004,High Risk Login,Login with risk score 74.8,Medium,2025-09-10 05:01:11.294750
+USR001,High Risk Login,Login with risk score 78.3,Medium,2025-09-10 05:01:11.294829
+USR003,High Risk Login,Login with risk score 71.9,Medium,2025-09-10 05:01:11.294905
+USR003,High Risk Login,Login with risk score 74.8,Medium,2025-09-10 05:01:11.294981
+USR004,High Risk Login,Login with risk score 75.5,Medium,2025-09-10 05:01:11.295057
+USR002,High Risk Login,Login with risk score 80.9,Medium,2025-09-10 05:01:11.295134
+USR002,High Risk Login,Login with risk score 78.6,Medium,2025-09-10 05:01:11.295210
+USR001,Anomalous Behavior,ML detected unusual login pattern (score: -0.57),Medium,2025-09-10 05:01:11.296198
+USR004,Anomalous Behavior,ML detected unusual login pattern (score: -0.62),Medium,2025-09-10 05:01:11.296292
+USR003,Anomalous Behavior,ML detected unusual login pattern (score: -0.59),Medium,2025-09-10 05:01:11.296371
+USR001,Anomalous Behavior,ML detected unusual login pattern (score: -0.66),Medium,2025-09-10 05:01:11.296446
+USR003,Anomalous Behavior,ML detected unusual login pattern (score: -0.61),Medium,2025-09-10 05:01:11.296521
+USR005,Anomalous Behavior,ML detected unusual login pattern (score: -0.61),Medium,2025-09-10 05:01:11.296596
+USR001,Anomalous Behavior,ML detected unusual login pattern (score: -0.62),Medium,2025-09-10 05:01:11.296671
+USR004,Anomalous Behavior,ML detected unusual login pattern (score: -0.62),Medium,2025-09-10 05:01:11.296750
+USR002,Anomalous Behavior,ML detected unusual login pattern (score: -0.61),Medium,2025-09-10 05:01:11.296826
+USR004,Anomalous Behavior,ML detected unusual login pattern (score: -0.60),Medium,2025-09-10 05:01:11.296900
+USR005,Anomalous Behavior,ML detected unusual login pattern (score: -0.58),Medium,2025-09-10 05:01:11.296973
+USR003,Anomalous Behavior,ML detected unusual login pattern (score: -0.60),Medium,2025-09-10 05:01:11.297047
+USR005,Anomalous Behavior,ML detected unusual login pattern (score: -0.58),Medium,2025-09-10 05:01:11.297121
+USR004,Anomalous Behavior,ML detected unusual login pattern (score: -0.63),Medium,2025-09-10 05:01:11.297195
+USR001,Anomalous Behavior,ML detected unusual login pattern (score: -0.58),Medium,2025-09-10 05:01:11.297270
+USR004,Anomalous Behavior,ML detected unusual login pattern (score: -0.62),Medium,2025-09-10 05:01:11.297343
+USR001,Anomalous Behavior,ML detected unusual login pattern (score: -0.68),Medium,2025-09-10 05:01:11.297418
+USR005,Anomalous Behavior,ML detected unusual login pattern (score: -0.64),Medium,2025-09-10 05:01:11.297491
+USR004,Anomalous Behavior,ML detected unusual login pattern (score: -0.62),Medium,2025-09-10 05:01:11.297565
+USR004,Anomalous Behavior,ML detected unusual login pattern (score: -0.63),Medium,2025-09-10 05:01:11.297640
+USR003,Anomalous Behavior,ML detected unusual login pattern (score: -0.60),Medium,2025-09-10 05:01:11.297714
+USR002,Anomalous Behavior,ML detected unusual login pattern (score: -0.62),Medium,2025-09-10 05:01:11.297788
+USR004,Anomalous Behavior,ML detected unusual login pattern (score: -0.63),Medium,2025-09-10 05:01:11.297863
+USR002,Anomalous Behavior,ML detected unusual login pattern (score: -0.62),Medium,2025-09-10 05:01:11.297939
+USR002,Anomalous Behavior,ML detected unusual login pattern (score: -0.64),Medium,2025-09-10 05:01:11.298014
+USR001,Anomalous Behavior,ML detected unusual login pattern (score: -0.58),Medium,2025-09-10 05:01:11.298089
+USR005,Anomalous Behavior,ML detected unusual login pattern (score: -0.59),Medium,2025-09-10 05:01:11.298164
+USR001,Anomalous Behavior,ML detected unusual login pattern (score: -0.64),Medium,2025-09-10 05:01:11.298258
+USR003,Anomalous Behavior,ML detected unusual login pattern (score: -0.66),Medium,2025-09-10 05:01:11.298334
+USR005,Anomalous Behavior,ML detected unusual login pattern (score: -0.57),Medium,2025-09-10 05:01:11.298409
+USR001,Anomalous Behavior,ML detected unusual login pattern (score: -0.64),Medium,2025-09-10 05:01:11.298484
+USR001,Anomalous Behavior,ML detected unusual login pattern (score: -0.58),Medium,2025-09-10 05:01:11.298562
+USR001,Anomalous Behavior,ML detected unusual login pattern (score: -0.60),Medium,2025-09-10 05:01:11.298636
+USR002,Anomalous Behavior,ML detected unusual login pattern (score: -0.58),Medium,2025-09-10 05:01:11.298710
+USR004,Anomalous Behavior,ML detected unusual login pattern (score: -0.57),Medium,2025-09-10 05:01:11.298783
+USR005,Anomalous Behavior,ML detected unusual login pattern (score: -0.58),Medium,2025-09-10 05:01:11.298860
+USR005,Anomalous Behavior,ML detected unusual login pattern (score: -0.61),Medium,2025-09-10 05:01:11.298934
+USR004,Anomalous Behavior,ML detected unusual login pattern (score: -0.61),Medium,2025-09-10 05:01:11.299009
+USR003,Anomalous Behavior,ML detected unusual login pattern (score: -0.58),Medium,2025-09-10 05:01:11.299083
+USR002,Anomalous Behavior,ML detected unusual login pattern (score: -0.61),Medium,2025-09-10 05:01:11.299158
+USR001,Anomalous Behavior,ML detected unusual login pattern (score: -0.64),Medium,2025-09-10 05:01:11.299233
+USR005,Anomalous Behavior,ML detected unusual login pattern (score: -0.65),Medium,2025-09-10 05:01:11.299307
+USR004,Anomalous Behavior,ML detected unusual login pattern (score: -0.61),Medium,2025-09-10 05:01:11.299381
+USR003,Anomalous Behavior,ML detected unusual login pattern (score: -0.67),Medium,2025-09-10 05:01:11.299456
+USR004,Anomalous Behavior,ML detected unusual login pattern (score: -0.59),Medium,2025-09-10 05:01:11.299529
+USR002,Anomalous Behavior,ML detected unusual login pattern (score: -0.60),Medium,2025-09-10 05:01:11.299606
+USR005,Anomalous Behavior,ML detected unusual login pattern (score: -0.65),Medium,2025-09-10 05:01:11.299680
+USR001,Anomalous Behavior,ML detected unusual login pattern (score: -0.66),Medium,2025-09-10 05:01:11.299754
+USR005,Anomalous Behavior,ML detected unusual login pattern (score: -0.57),Medium,2025-09-10 05:01:11.299828
+USR004,Anomalous Behavior,ML detected unusual login pattern (score: -0.66),Medium,2025-09-10 05:01:11.299902
+USR002,Anomalous Behavior,ML detected unusual login pattern (score: -0.62),Medium,2025-09-10 05:01:11.299976
+USR001,Anomalous Behavior,ML detected unusual login pattern (score: -0.58),Medium,2025-09-10 05:01:11.300052
+USR005,Anomalous Behavior,ML detected unusual login pattern (score: -0.62),Medium,2025-09-10 05:01:11.300127
+USR003,Anomalous Behavior,ML detected unusual login pattern (score: -0.58),Medium,2025-09-10 05:01:11.300212
+USR005,Anomalous Behavior,ML detected unusual login pattern (score: -0.68),Medium,2025-09-10 05:01:11.300289
+USR001,Anomalous Behavior,ML detected unusual login pattern (score: -0.60),Medium,2025-09-10 05:01:11.300363
+USR005,Anomalous Behavior,ML detected unusual login pattern (score: -0.61),Medium,2025-09-10 05:01:11.300437
+USR004,Anomalous Behavior,ML detected unusual login pattern (score: -0.62),Medium,2025-09-10 05:01:11.300512
+USR004,Anomalous Behavior,ML detected unusual login pattern (score: -0.61),Medium,2025-09-10 05:01:11.300586
+USR005,Anomalous Behavior,ML detected unusual login pattern (score: -0.64),Medium,2025-09-10 05:01:11.300660
+USR001,Anomalous Behavior,ML detected unusual login pattern (score: -0.60),Medium,2025-09-10 05:01:11.300734
+USR004,Anomalous Behavior,ML detected unusual login pattern (score: -0.60),Medium,2025-09-10 05:01:11.300808
+USR001,Anomalous Behavior,ML detected unusual login pattern (score: -0.61),Medium,2025-09-10 05:01:11.300882
+USR005,Anomalous Behavior,ML detected unusual login pattern (score: -0.67),Medium,2025-09-10 05:01:11.300956
+USR005,Anomalous Behavior,ML detected unusual login pattern (score: -0.63),Medium,2025-09-10 05:01:11.301031
+USR004,Anomalous Behavior,ML detected unusual login pattern (score: -0.64),Medium,2025-09-10 05:01:11.301105
+USR003,Anomalous Behavior,ML detected unusual login pattern (score: -0.57),Medium,2025-09-10 05:01:11.301180
+USR005,Anomalous Behavior,ML detected unusual login pattern (score: -0.58),Medium,2025-09-10 05:01:11.301255
+USR002,Anomalous Behavior,ML detected unusual login pattern (score: -0.58),Medium,2025-09-10 05:01:11.301333
+USR004,Anomalous Behavior,ML detected unusual login pattern (score: -0.63),Medium,2025-09-10 05:01:11.301409
+USR002,Anomalous Behavior,ML detected unusual login pattern (score: -0.58),Medium,2025-09-10 05:01:11.301484
+USR001,Anomalous Behavior,ML detected unusual login pattern (score: -0.62),Medium,2025-09-10 05:01:11.301560
+USR005,Anomalous Behavior,ML detected unusual login pattern (score: -0.57),Medium,2025-09-10 05:01:11.301635
+USR005,Anomalous Behavior,ML detected unusual login pattern (score: -0.63),Medium,2025-09-10 05:01:11.301708
+USR005,Anomalous Behavior,ML detected unusual login pattern (score: -0.62),Medium,2025-09-10 05:01:11.301782
+USR001,Anomalous Behavior,ML detected unusual login pattern (score: -0.65),Medium,2025-09-10 05:01:11.301855
+USR001,Anomalous Behavior,ML detected unusual login pattern (score: -0.61),Medium,2025-09-10 05:01:11.301931
+USR003,Anomalous Behavior,ML detected unusual login pattern (score: -0.63),Medium,2025-09-10 05:01:11.302005
+USR005,Anomalous Behavior,ML detected unusual login pattern (score: -0.58),Medium,2025-09-10 05:01:11.302079
+USR004,Anomalous Behavior,ML detected unusual login pattern (score: -0.61),Medium,2025-09-10 05:01:11.302155
+USR001,Anomalous Behavior,ML detected unusual login pattern (score: -0.65),Medium,2025-09-10 05:01:11.302243
+USR005,Anomalous Behavior,ML detected unusual login pattern (score: -0.59),Medium,2025-09-10 05:01:11.302320
+USR002,Anomalous Behavior,ML detected unusual login pattern (score: -0.62),Medium,2025-09-10 05:01:11.302394
+USR001,Anomalous Behavior,ML detected unusual login pattern (score: -0.58),Medium,2025-09-10 05:01:11.302468
+USR005,Anomalous Behavior,ML detected unusual login pattern (score: -0.62),Medium,2025-09-10 05:01:11.302543
+USR001,Anomalous Behavior,ML detected unusual login pattern (score: -0.63),Medium,2025-09-10 05:01:11.302621
+USR003,Anomalous Behavior,ML detected unusual login pattern (score: -0.59),Medium,2025-09-10 05:01:11.302695
+USR003,Anomalous Behavior,ML detected unusual login pattern (score: -0.62),Medium,2025-09-10 05:01:11.302770
+USR004,Anomalous Behavior,ML detected unusual login pattern (score: -0.60),Medium,2025-09-10 05:01:11.302845
+USR005,Anomalous Behavior,ML detected unusual login pattern (score: -0.64),Medium,2025-09-10 05:01:11.302921
+USR005,Anomalous Behavior,ML detected unusual login pattern (score: -0.63),Medium,2025-09-10 05:01:11.302994
+USR005,Anomalous Behavior,ML detected unusual login pattern (score: -0.58),Medium,2025-09-10 05:01:11.303068
+USR001,Anomalous Behavior,ML detected unusual login pattern (score: -0.57),Medium,2025-09-10 05:01:11.303142
+USR005,Anomalous Behavior,ML detected unusual login pattern (score: -0.63),Medium,2025-09-10 05:01:11.303216
+USR002,Anomalous Behavior,ML detected unusual login pattern (score: -0.61),Medium,2025-09-10 05:01:11.303289
+USR002,Anomalous Behavior,ML detected unusual login pattern (score: -0.64),Medium,2025-09-10 05:01:11.303363
+USR005,Anomalous Behavior,ML detected unusual login pattern (score: -0.63),Medium,2025-09-10 05:01:11.303437
+USR003,Anomalous Behavior,ML detected unusual login pattern (score: -0.63),Medium,2025-09-10 05:01:11.303512
+USR001,Anomalous Behavior,ML detected unusual login pattern (score: -0.59),Medium,2025-09-10 05:01:11.303650
+USR005,Anomalous Behavior,ML detected unusual login pattern (score: -0.58),Medium,2025-09-10 05:01:11.303858
